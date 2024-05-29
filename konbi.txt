@@ -1,0 +1,25 @@
+<html>
+<head>
+
+<body bgcolor=#FFF8DC>
+
+
+<h1><center>SELAMAT DATANG di KEDAI SEAFOOD 55</h1>
+<hr size=5 align=center noshade>
+
+
+<hr><center><p><b><font face=rocwell size=4 color=black>
+| <a href=link_dokumen_lain.html>Home</a> 
+| <a href=konbi.html>Konsep Bisnis</a> 
+| <a href=meman.html>Menu Makanan</a> 
+| <a href=memin.html>Menu Minuman</a> 
+| <a href=tentang_kami.html>Tentang Kami</a> |
+<hr>
+
+
+<center><img src="kedai seafood new banget fiks.JPEG">
+<hspace=10 vspace=10 width=200 heigh=254 align="left"  border=2>
+
+
+</body>
+</html>

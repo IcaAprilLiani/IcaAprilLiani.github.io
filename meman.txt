@@ -1,0 +1,28 @@
+<html>
+<head>
+
+<body bgcolor=#FFF8DC>
+
+<H1><center>SELAMAT DATANG di KEDAI SEAFOOD 55</h1>
+
+<hr><center><p><b><font foce=rocwell size=4 color=black>
+| <a href=link_dokumen_lain.html>Home</a>
+| <a href=konbi.html>Konsep Bisnis</a>
+| <a href=meman.html>Menu Makanan</a>
+| <a href=memin.html>Menu Minuman</a>
+| <a href=tentang kami.html>Tentang_Kami</a> |
+<hr>
+
+<center><p><font face=times new roman size=4 color=black>
+<h1><center>ANEKA SEAFOOD & TUMIS SAYUR</h1>
+<center><img src="menu makanan.JPEG">
+<hspace=10 vspace=10 width=200 height=254 align="left" border=2>
+
+<hr>
+<center><p><font face=times new roman size=4 color=black>
+<h1><center>ANEKA NASI & CEMILAN</h1>
+<center><img src="menu kedua new.JPEG">
+<hspace=10 vspace=10 width=200 height=254 align="left" border=2>
+
+</body>
+</html>
